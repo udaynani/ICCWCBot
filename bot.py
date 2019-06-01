@@ -30,7 +30,7 @@ class BotHandler:
 
         return last_update
 
-greet_bot = BotHandler('695783642:AAGGSh_QLI-t3hyKXaIo4F18MSHD9hfO8sc')
+greet_bot = BotHandler('')
 greetings = ('hello', 'hi', 'greetings', 'sup')
 now = datetime.datetime.now()
 
